@@ -52,7 +52,7 @@ export default function HomePage() {
               className="rounded-full object-cover"
             />
             <div>
-              <p className="font-bold text-[#1B3A6B] text-sm leading-tight">Teja Rehabilitation Centre</p>
+              <p className="font-bold text-[#1B3A6B] text-sm leading-tight">Teja Rehabilitation &amp; De-Addiction Centre</p>
               <p className="text-xs text-gray-500">A unit of Surya&apos;s Health Organization</p>
             </div>
           </div>
@@ -69,8 +69,8 @@ export default function HomePage() {
       <section className="bg-gradient-to-br from-[#FFF7EE] to-[#e8f0fb] py-14 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <Image
-            src="/3e4a9bc9-08c6-4d21-b517-676ffd4016b0.jpeg"
-            alt="Surya's Health Organization"
+            src="/teja-logo.jpeg"
+            alt="Teja Rehabilitation & De-Addiction Centre"
             width={120}
             height={120}
             className="mx-auto rounded-full object-cover shadow-lg mb-6"
