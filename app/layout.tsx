@@ -5,7 +5,6 @@ export const metadata: Metadata = {
   title: "Surya's Health Organization – Teja Rehabilitation & De-Addiction Centre",
   description:
     "24/7 compassionate care for neuro-rehabilitation, physiotherapy, de-addiction, and mental health in Nizamabad. Great Care Closer to Home.",
-  icons: { icon: "/favicon.png", apple: "/favicon.png" },
   openGraph: {
     title: "Surya's Health Organization",
     description: "Journey Towards Wellness – Nizamabad",

@@ -45,15 +45,15 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <Image
-              src="/3e4a9bc9-08c6-4d21-b517-676ffd4016b0.jpeg"
-              alt="Surya's Health Organization Logo"
+              src="/teja-logo.jpeg"
+              alt="Teja Rehabilitation Centre Logo"
               width={56}
               height={56}
               className="rounded-full object-cover"
             />
             <div>
-              <p className="font-bold text-[#1B3A6B] text-sm leading-tight">Surya&apos;s Health Organization</p>
-              <p className="text-xs text-gray-500">Great Care Closer to Home</p>
+              <p className="font-bold text-[#1B3A6B] text-sm leading-tight">Teja Rehabilitation Centre</p>
+              <p className="text-xs text-gray-500">A unit of Surya&apos;s Health Organization</p>
             </div>
           </div>
           <a
