@@ -18,7 +18,7 @@ npx wrangler pages deploy out --project-name=suryas-health --branch=main --commi
 - Must pass as env var on build or set in Cloudflare Pages dashboard for CI
 
 ## Lead capture
-- Form → Web3Forms → delivers to vamsykalidindi@gmail.com
+- Form → Web3Forms → delivers to shorg712017@gmail.com
 - Cloudflare Turnstile not yet added (future spam protection)
 
 ## Assets

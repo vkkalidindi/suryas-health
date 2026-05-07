@@ -24,6 +24,7 @@ export default function ContactForm() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "YOUR_ACCESS_KEY",
+        email: "shorg712017@gmail.com",
         subject: `New enquiry – ${form.service || "General"}`,
         from_name: form.name,
         ...form,
